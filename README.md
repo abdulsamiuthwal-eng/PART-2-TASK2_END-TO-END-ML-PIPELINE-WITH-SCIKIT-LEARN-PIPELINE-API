@@ -1,4 +1,4 @@
-EEnd-to-End Telco Customer Churn Prediction Pipeline
+End-to-End Telco Customer Churn Prediction Pipeline
 This repository contains a complete, production-quality, end-to-end Machine Learning pipeline that predicts customer churn using the IBM Telco Customer Churn Dataset. The project is built using Python, Scikit-Learn's Pipeline and ColumnTransformer APIs, and exports a tuned model using joblib.
 
 📁 Project Structure
